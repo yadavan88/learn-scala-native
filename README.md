@@ -1,5 +1,5 @@
 # Native Application using Scala Native
-A simple project to learn basics of [Scala Native](https://scala-native.readthedocs.io/en/latest/). A detailed blog is available here.
+A simple project to learn basics of [Scala Native](https://scala-native.readthedocs.io/en/latest/). A detailed blog is available [here](https://yadukrishnan.live/scalanative-build-native-applications-in-scala).
 
 This simple project creates a command line app to base64 encode and decode a text. 
 
