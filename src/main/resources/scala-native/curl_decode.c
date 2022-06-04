@@ -34,6 +34,7 @@ int base64_decode(char arr[])
               curl_easy_strerror(res));
  
     /* always cleanup */
+    free(combined);
     curl_easy_cleanup(curl);
   }
   return 0;
